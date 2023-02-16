@@ -1,4 +1,4 @@
-# Open Academy
+# Ocademy
 
 ## Repositories
 
